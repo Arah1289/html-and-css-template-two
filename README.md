@@ -1,2 +1,2 @@
-# html-and-css-template-2
+# HTML And CSS Template Two
 This Is My Design
